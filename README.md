@@ -1,5 +1,5 @@
 # Cybersecurity-Documentations
-There is a text file in each folder, describing the scenario and its correponding documentation.
+There is a text file in each folder, describing the scenario and its corresponding documentation/template.
 
 There are some additional write-ups posted in medium.com. 
 
